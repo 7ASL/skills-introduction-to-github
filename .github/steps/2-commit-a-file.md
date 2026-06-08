@@ -1,4 +1,5 @@
 ## Step 2: Commit a file
+# Kickstart Verification
 
 _You created a branch! :tada:_
 
